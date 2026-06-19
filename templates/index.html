@@ -1,1 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GRAND AI</title>
 
+<link rel="stylesheet" href="/static/style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div class="background"></div>
+
+<div class="chat-container">
+
+    <div class="header">
+        <div class="logo">🤖</div>
+        <div>
+            <h1>GRAND AI</h1>
+            <p>Your Intelligent Assistant</p>
+        </div>
+    </div>
+
+    <div id="chat-box">
+
+        <div class="message ai">
+            Hello 👋 I am GRAND AI. How can I help you today?
+        </div>
+
+    </div>
+
+    <div class="input-area">
+
+        <input
+            type="text"
+            id="user-input"
+            placeholder="Ask anything..."
+            autocomplete="off">
+
+        <button onclick="sendMessage()">
+            ➤
+        </button>
+
+    </div>
+
+</div>
+
+<script src="/static/script.js"></script>
+
+</body>
+</html>
