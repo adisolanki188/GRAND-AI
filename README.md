@@ -5,6 +5,9 @@ A modern AI chatbot built with Flask, HTML, CSS, and JavaScript, powered by Goog
 GRAND AI provides a clean, responsive, and mobile-friendly chat interface for interacting with AI models through official APIs.
 
 --
+## 🚀 Live page
+
+**https://grand-ai-6ij6.onrender.com**
 
 ## ✨ Features
 
@@ -34,7 +37,7 @@ GRAND AI provides a clean, responsive, and mobile-friendly chat interface for in
 **AI Provider**
 - Google Gemini API
 
----
+--
 
 ## 📂 Project Structure
 
@@ -56,7 +59,7 @@ GRAND-AI/
 ├── LICENSE
 └── README.md
 
----
+--
 
 ## 🚀 Installation
 
@@ -76,7 +79,7 @@ source venv/bin/activate
 **Install Dependencies**
 pip install -r requirements.txt
 
----
+--
 
 ## 🔑 Environment Variables
 
@@ -93,7 +96,7 @@ python app.py
 Open:
 http://127.0.0.1:5000
 
----
+--
 
 ## ☁️ Deploy on Render
 
@@ -106,7 +109,7 @@ GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 
 Deploy and access your application through the Render-generated URL.
 
----
+--
 
 ## 🔒 Security
 
@@ -121,7 +124,7 @@ __pycache__/
 - Never expose secrets in frontend code.
 - Use environment variables for all sensitive information.
 
----
+--
 
 ## 📸 Screenshots
 
@@ -130,7 +133,7 @@ Add screenshots here after deployment.
 ![Home Page](screenshots/home.png)
 ![Chat Interface](screenshots/chat.png)
 
----
+--
 
 ## ⚠️ Disclaimer
 
@@ -141,7 +144,7 @@ This project is intended for educational and development purposes.
 - Users are responsible for complying with the Terms of Service of any third-party APIs they use.
 - No proprietary AI models, API keys, or paid services are included in this repository.
 
----
+--
 
 ## 🤝 Contributing
 
@@ -149,19 +152,12 @@ Contributions, issues, and feature requests are welcome.
 
 Feel free to fork the repository and submit pull requests.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-See the "LICENSE" file for details.
-
----
+--
 
 ## 👨‍💻 Author
 
 **Adi Solanki**
 
----
+--
 
 **⭐ If you find GRAND AI useful, please consider starring the repository.**
