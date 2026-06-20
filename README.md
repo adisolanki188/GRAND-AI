@@ -6,9 +6,11 @@ GRAND AI provides a clean, responsive, and mobile-friendly chat interface for in
 
 --
 ## 🚀 Live page
+
 **https://grand-ai-6ij6.onrender.com**
-<img width="720" height="1608" alt="1000009993" src="https://github.com/user-attachments/assets/5c61885b-d89a-48db-b881-c837ec2d8588" />
-<img width="720" height="1608" alt="1000009994" src="https://github.com/user-attachments/assets/96d1ef27-94f4-47e6-b748-ab3aac802649" />
+<img width="720" height="1000" alt="1000009996" src="https://github.com/user-attachments/assets/3a74c4fc-58cb-4957-a1b5-d7c0caadb5b2" />
+<img width="720" height="1000" alt="1000009995" src="https://github.com/user-attachments/assets/7754abd7-7f82-4187-aa79-e09c3219c5fd" />
+
 
 ## ✨ Features
 
