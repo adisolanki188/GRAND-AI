@@ -37,7 +37,7 @@ GRAND AI provides a clean, responsive, and mobile-friendly chat interface for in
 ---
 
 ## 📂 Project Structure
-'''text
+
 GRAND-AI/
 │
 ├── app.py
@@ -55,7 +55,7 @@ GRAND-AI/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-'''
+
 ---
 
 ## 🚀 Installation
