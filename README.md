@@ -4,7 +4,7 @@ A modern AI chatbot built with Flask, HTML, CSS, and JavaScript, powered by Goog
 
 GRAND AI provides a clean, responsive, and mobile-friendly chat interface for interacting with AI models through official APIs.
 
----
+--
 
 ##✨ Features
 
@@ -18,7 +18,7 @@ GRAND AI provides a clean, responsive, and mobile-friendly chat interface for in
 * **🔒 Secure API Key Management
 * **☁️ Easy Deployment on Render
 
----
+--
 
 ##🛠️ Tech Stack
 
