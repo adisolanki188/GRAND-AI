@@ -6,41 +6,38 @@ GRAND AI provides a clean, responsive, and mobile-friendly chat interface for in
 
 --
 
-##✨ Features
+## ✨ Features
 
-* **🎨 Modern UI Design
-* **📱 Mobile-Friendly Interface
-* **⚡ Fast AI Responses
-* **🤖 Google Gemini Integration
-* **🌙 Dark Theme
-* **⌨️ Typing Indicator
-* ** 🔄 Auto Scroll Chat
-* **🔒 Secure API Key Management
-* **☁️ Easy Deployment on Render
+* **🎨 Modern UI Design**
+* **📱 Mobile-Friendly Interface**
+* **⚡ Fast AI Responses**
+* **🤖 Google Gemini Integration**
+* **🌙 Dark Theme**
+* **⌨️ Typing Indicator**
+* **🔄 Auto Scroll Chat**
+* **🔒 Secure API Key Management**
+* **☁️ Easy Deployment on Render**
 
 --
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Frontend
-
+**Frontend**
 - HTML5
 - CSS3
 - JavaScript
 
-Backend
-
+**Backend**
 - Python
 - Flask
 
-AI Provider
-
+**AI Provider**
 - Google Gemini API
 
 ---
 
-##📂 Project Structure
-
+## 📂 Project Structure
+'''
 GRAND-AI/
 │
 ├── app.py
@@ -58,40 +55,39 @@ GRAND-AI/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-
+'''
 ---
 
-##🚀 Installation
+## 🚀 Installation
 
-**Clone Repository
+**Clone Repository**
 git clone https://github.com/your-username/GRAND-AI.git
 cd GRAND-AI
 
-**Create Virtual Environment
+**Create Virtual Environment**
 python -m venv venv
 
-**Activate Virtual Environment
+**Activate Virtual Environment**
 Windows
 venv\Scripts\activate
 Linux / macOS
 source venv/bin/activate
 
-**Install Dependencies
+**Install Dependencies**
 pip install -r requirements.txt
 
 ---
 
-##🔑 Environment Variables
+## 🔑 Environment Variables
 
 Create a ".env" file in the root directory:
-
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 
 Never share or upload your API key to GitHub.
 
 ---
 
-##▶️ Run Locally
+## ▶️ Run Locally
 
 python app.py
 Open:
@@ -99,20 +95,20 @@ http://127.0.0.1:5000
 
 ---
 
-##☁️ Deploy on Render
+## ☁️ Deploy on Render
 
-**Build Command
+**Build Command**
 pip install -r requirements.txt
-**Start Command
+**Start Command**
 gunicorn app:app
-**Environment Variables
+**Environment Variables**
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 
 Deploy and access your application through the Render-generated URL.
 
 ---
 
-##🔒 Security
+## 🔒 Security
 
 Add the following to ".gitignore":
 .env
@@ -120,14 +116,14 @@ venv/
 __pycache__/
 *.pyc
 
-**Important
+**Important**
 - Never commit API keys.
 - Never expose secrets in frontend code.
 - Use environment variables for all sensitive information.
 
 ---
 
-##📸 Screenshots
+## 📸 Screenshots
 
 Add screenshots here after deployment.
 
@@ -136,7 +132,7 @@ Add screenshots here after deployment.
 
 ---
 
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This project is intended for educational and development purposes.
 
@@ -147,7 +143,7 @@ This project is intended for educational and development purposes.
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome.
 
@@ -155,17 +151,17 @@ Feel free to fork the repository and submit pull requests.
 
 ---
 
-##📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 See the "LICENSE" file for details.
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
-Adi Solanki
+**Adi Solanki**
 
 ---
 
-**⭐ If you find GRAND AI useful, please consider starring the repository.
+**⭐ If you find GRAND AI useful, please consider starring the repository.**
